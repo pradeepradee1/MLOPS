@@ -1,0 +1,4 @@
+[core]
+    remote = local-remote
+['remote "local-remote"']
+    url = C:\Users\pk42\Documents\MachineLearning\dvc_one\Output
